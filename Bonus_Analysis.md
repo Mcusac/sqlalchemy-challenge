@@ -1,2 +1,0 @@
-*Bonus 1*
-With a p-value of <0.5 the difference is found to be very (p<.01) statistically significant between the temperatures at the two given months of the year. In this case, the average temperature in June is higher than the average temperature in December.
